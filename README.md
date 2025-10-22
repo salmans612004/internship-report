@@ -75,7 +75,7 @@ Live Web Hosting:   https://sasi-r08.github.io/watch_web_store/Watch_Web_Store
 
   * Project Name: Wonder Watche's
     
-  * Developer: SASI R
+  * Developer: SALMAN S
     
   * Languages Used: HTML, CSS, JavaScript
     
